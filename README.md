@@ -66,7 +66,7 @@
 <h2>How to Use</h2>
     <ol>
         <li>Clone the repository:
-            <pre><code>git clone https://github.com/Blessedsan123/combinational-logic-circuits.git</code></pre>
+            <pre><code>git clone https://github.com/Blessedsan123/combinational-circuits-VHDL</code></pre>
         </li>
         <li>Navigate to the desired circuit folder.</li>
         <li>Open the VHDL file in your preferred editor or simulator (e.g., ModelSim, Xilinx Vivado, etc.).</li>
